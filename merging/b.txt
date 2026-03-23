@@ -1,1 +1,1 @@
-File B in the Master Branch
+File B in the Master Branch (updated from branch1)
